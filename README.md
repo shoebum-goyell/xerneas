@@ -1,16 +1,9 @@
 # xerneas
 
-A new Flutter application.
+<img width="230" alt="Screenshot 2020-12-30 at 8 08 23 PM" src="https://user-images.githubusercontent.com/111908319/188488994-442cbdcd-1076-4fdb-ad46-a31a4035f9b1.png">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##
 
-A few resources to get you started if this is your first Flutter project:
+This project was developed in 2019 for a Hackathon. Most dependencies used are deprecated now, but the screenshot attached is from the homepage of the app.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
